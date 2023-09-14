@@ -11,14 +11,14 @@
     "homepage": "https://github.com/shisun/laravel-elasticsearch-query-builder",
     "keywords": ["Laravel", "LaravelElasticsearchQueryBuilder", "elasticsearch"],
     "require": {
-        "illuminate/support": "~5",
-        "elasticsearch/elasticsearch": "^6.0.1"
+        "illuminate/support": "^v8.78.1",
+        "elasticsearch/elasticsearch": "~7.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "~7.0",
-        "mockery/mockery": "^1.1",
-        "orchestra/testbench": "~3.0",
-        "sempro/phpunit-pretty-print": "^1.0"
+        "phpunit/phpunit": "^9.3",
+        "mockery/mockery": "^1.4.4",
+        "orchestra/testbench": "3.9.x-dev",
+        "sempro/phpunit-pretty-print": "^1.4.0"
     },
     "autoload": {
         "psr-4": {
