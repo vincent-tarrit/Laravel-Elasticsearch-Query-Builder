@@ -11,7 +11,7 @@
     "homepage": "https://github.com/shisun/laravel-elasticsearch-query-builder",
     "keywords": ["Laravel", "LaravelElasticsearchQueryBuilder", "elasticsearch"],
     "require": {
-        "illuminate/support": "^v8.78.1",
+        "illuminate/support": "^v10.0",
         "elasticsearch/elasticsearch": "~7.0"
     },
     "require-dev": {
